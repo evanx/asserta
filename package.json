@@ -1,0 +1,17 @@
+{
+  "name": "asserta",
+  "version": "0.1.0",
+  "description": "Assert utils.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "@evanxsummers",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanx/asserta.git"
+  },
+  "homepage": "https://github.com/evanx/asserta",
+  "dependencies": {
+    "app-bin": "^0.1.3"
+  }
+}
